@@ -46,6 +46,7 @@ map.setView([3665,1940], 0);
 fetch('Data/Info/Locations.json')
   .then(response => response.json())
   .then(data => {
+    
     // Capitales
     data.capitales.forEach(k => {
       L.circleMarker(k.coords, {
@@ -81,7 +82,7 @@ fetch('Data/Info/Locations.json')
       L.circleMarker(p.coords, {
         radius: 4,
         color: "#333",
-        fillColor: "#999",
+        fillColor: "#ff00bf",
         fillOpacity: 0.7
       }).bindPopup(p.nombre).addTo(map);
     });
@@ -96,3 +97,4 @@ fetch('Data/Info/Locations.json')
       }).bindPopup(i.nombre).addTo(map);
     });
   });
+
