@@ -1,1 +1,94 @@
+{
+  "capitales": [
+    {
+        "nombre":"Desembarco del Rey",
+        "coords":[3665,1940],
+        "tipo":"Capital"
+    },
+    {
+        "nombre":"Invernalia",
+        "coords":[5400,1625],
+        "tipo":"Capital"
+    },
+    {
+        "nombre":"Bastión de Tormentas",
+        "coords":[3339,2246],
+        "tipo":"Capital"
+    },
+    {
+        "nombre":"Roca Casterly",
+        "coords":[3824,1033],
+        "tipo":"Capital"
+    },
+    {
+        "nombre":"Pyke",
+        "coords":[4253,1046],
+        "tipo":"Capital"
+    },
+    {
+        "nombre":"Altojardín",
+        "coords":[3212,1258],
+        "tipo":"Capital"
+    },
+    {
+        "nombre":"Lanza del Sol",
+        "coords":[2694,2404],
+        "tipo":"Capital"
+    }
+  ],
+  "ciudades":[
+    {
+        "nombre":"Puerto Blanco",
+        "coords":[4992,1850],
+        "tipo":"Ciudad"
+    },
+    {
+        "nombre":"Antigua",
+        "coords":[2933,1028],
+        "tipo":"Ciudad"
+    },
+    {
+        "nombre":"Lannisport",
+        "coords":[3777,1012],
+        "tipo":"Ciudad"
+    }
+  ],
+  "fortalezas":[
 
+    {
+        "nombre":"Castillo Negro",
+        "coords":[6051,1932],
+        "tipo":"Fortaleza"
+    },
+    {
+        "nombre":"Torreón de Craster",
+        "coords":[6136,1843],
+        "tipo":"Fortaleza"
+    }
+    
+  ],
+  "aldeas_pueblos": [
+    {
+        "nombre":"Villa Topo",
+        "coords":[1200,2100],
+        "tipo":"Aldea"
+    },
+    {
+        "nombre":"Puerto Noble",
+        "coords":[4271,1059],
+        "tipo":"Pueblo"
+    }
+  ],
+  "puntos_interes": [
+    {
+        "nombre":"Puño de los primeros hombres",
+        "coords":[6248,1680],
+        "tipo":"Punto de Interés"
+    },
+    {
+        "nombre": "Árbol Blanco",
+        "coords": [6085,1895],
+        "tipo": "Punto de Interés"
+    }
+  ]
+}
