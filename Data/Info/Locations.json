@@ -49,7 +49,7 @@
     },
     {
         "nombre":"Lannisport",
-        "coords":[3777,1012],
+        "coords":[3783,1007],
         "tipo":"Ciudad"
     }
   ],
@@ -70,7 +70,7 @@
   "aldeas_pueblos": [
     {
         "nombre":"Villa Topo",
-        "coords":[1200,2100],
+        "coords":[6039,1947],
         "tipo":"Aldea"
     },
     {
